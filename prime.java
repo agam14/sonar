@@ -6,7 +6,6 @@ Scanner input = new Scanner(System. in);
 System. out. print("Enter an integer: ");
 int n = input. nextInt();  
    
-  
 m=n/2;      
 if(n==0||n==1)
 {  
