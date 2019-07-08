@@ -1,2 +1,0 @@
-# sonar
-for SQ testing
